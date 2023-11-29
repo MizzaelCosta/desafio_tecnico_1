@@ -1,4 +1,4 @@
-# Desafio têcnico 1
+# Desafio técnico 1
 
 <p align="center">Uma aplicação em linha de comando, em dart, para atender aos requisitos solicitados.</p>
 
